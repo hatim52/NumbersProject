@@ -1,0 +1,42 @@
+Testsuite: devops.numbers.NumberWordsTests
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.045 sec
+------------- Standard Output ---------------
+ResultNINETEEN
+ResultFIFTY FIVE
+ResultELEVEN
+ResultNINETY
+ResultTWENTY
+ResultONE HUNDRED
+ResultNINETY NINE
+ResultONE HUNDRED ONE
+ResultONE HUNDRED TEN
+ResultTWO HUNDRED
+ResultTHREE HUNDRED FIFTY FOUR
+ResultFOUR HUNDRED NINETY NINE
+ResultSEVEN HUNDRED ELEVEN
+ResultNINE HUNDRED NINETY NINE
+ResultONE  
+ResultTEN
+ResultTWENTY NINE
+------------- ---------------- ---------------
+
+Testcase: numberNineteen took 0.007 sec
+Testcase: numberOutOfRangeReturnsError took 0 sec
+Testcase: numberFiftyFive took 0 sec
+Testcase: numberZero took 0 sec
+Testcase: numberThousand took 0 sec
+Testcase: numberEleven took 0 sec
+Testcase: numberNinety took 0 sec
+Testcase: numberTwenty took 0.001 sec
+Testcase: numberHundred took 0.004 sec
+Testcase: numberNinetyNine took 0 sec
+Testcase: number101 took 0.001 sec
+Testcase: number110 took 0 sec
+Testcase: number200 took 0 sec
+Testcase: number354 took 0 sec
+Testcase: number499 took 0 sec
+Testcase: number711 took 0.003 sec
+Testcase: number999 took 0.001 sec
+Testcase: numberOne took 0 sec
+Testcase: numberTen took 0.001 sec
+Testcase: numberTwentyNine took 0 sec
